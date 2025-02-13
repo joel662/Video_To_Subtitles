@@ -1,0 +1,412 @@
+1
+00:00:00,000 --> 00:00:03,000
+So you've got GitHub Copilot, congrats.
+
+2
+00:00:03,000 --> 00:00:06,000
+Copilot can help you level up your skills as a developer
+
+3
+00:00:06,000 --> 00:00:09,000
+in ways that you probably thought were not possible,
+
+4
+00:00:09,000 --> 00:00:12,000
+seriously, but now that you've got it, where do you start?
+
+5
+00:00:12,000 --> 00:00:13,000
+How does it work?
+
+6
+00:00:13,000 --> 00:00:14,000
+What do you need to learn?
+
+7
+00:00:14,000 --> 00:00:17,000
+We're gonna answer all of that in this video.
+
+8
+00:00:17,000 --> 00:00:19,000
+And I think you'll find that once you know how and where
+
+9
+00:00:19,000 --> 00:00:24,000
+to use Copilot, it is pretty simple to dramatically increase
+
+10
+00:00:24,000 --> 00:00:26,000
+your speed and productivity almost immediately.
+
+11
+00:00:26,000 --> 00:00:29,000
+The secret of GitHub Copilot is that there isn't anything
+
+12
+00:00:29,000 --> 00:00:33,000
+special that you need to do to learn how to interact with it.
+
+13
+00:00:33,000 --> 00:00:37,000
+All you have to do to use GitHub Copilot is code.
+
+14
+00:00:37,000 --> 00:00:38,000
+That's it.
+
+15
+00:00:38,000 --> 00:00:40,000
+Just code like you normally would
+
+16
+00:00:40,000 --> 00:00:42,000
+and watch the AI go to work.
+
+17
+00:00:42,000 --> 00:00:46,000
+This is called ghost text, and it's automatically turned on
+
+18
+00:00:46,000 --> 00:00:50,000
+when you install the extension and log in to GitHub Copilot.
+
+19
+00:00:50,000 --> 00:00:53,000
+You can verify that Copilot is active by checking
+
+20
+00:00:53,000 --> 00:00:57,000
+for the GitHub Copilot icon down here in your status bar.
+
+21
+00:00:57,000 --> 00:01:02,000
+And if you want to turn Copilot off for a specific file or language,
+
+22
+00:01:02,000 --> 00:01:04,000
+click on this icon and you can disable it.
+
+23
+00:01:04,000 --> 00:01:07,000
+You can also trigger ghost text by writing a comment
+
+24
+00:01:07,000 --> 00:01:09,000
+expressing what you want.
+
+25
+00:01:09,000 --> 00:01:13,000
+To accept a ghost text completion, press Tab.
+
+26
+00:01:13,000 --> 00:01:15,000
+If you only want part of the ghost text,
+
+27
+00:01:15,000 --> 00:01:17,000
+you can just hold down the controller command keys
+
+28
+00:01:17,000 --> 00:01:21,000
+and press the right arrow to accept as much or little of it
+
+29
+00:01:21,000 --> 00:01:22,000
+as you want.
+
+30
+00:01:22,000 --> 00:01:26,000
+And you can hit Escape at any time to dismiss the ghost text.
+
+31
+00:01:26,000 --> 00:01:28,000
+You can do a lot with just ghost text,
+
+32
+00:01:28,000 --> 00:01:31,000
+and you'll find that Copilot is remarkably good
+
+33
+00:01:31,000 --> 00:01:35,000
+at anticipating your next move and doing a lot of the work for you.
+
+34
+00:01:35,000 --> 00:01:39,000
+For example, if I create a variable called nums,
+
+35
+00:01:39,000 --> 00:01:42,000
+Copilot gives me what I probably want based on the name of the variable
+
+36
+00:01:42,000 --> 00:01:46,000
+and the function in the file already, an array of numbers.
+
+37
+00:01:46,000 --> 00:01:48,000
+And if I press Enter below the function,
+
+38
+00:01:48,000 --> 00:01:51,000
+it assumes that I want to call the function
+
+39
+00:01:51,000 --> 00:01:54,000
+and pass in the nums variable, which is exactly what I want.
+
+40
+00:01:54,000 --> 00:01:56,000
+Now, ghost text may give you what you want,
+
+41
+00:01:56,000 --> 00:01:59,000
+or it may be close and almost, but amiss.
+
+42
+00:01:59,000 --> 00:02:02,000
+In that case, you can see some alternative suggestions
+
+43
+00:02:02,000 --> 00:02:06,000
+by pressing the Control or Command and Enter keys.
+
+44
+00:02:06,000 --> 00:02:08,000
+This opens up a side panel where you
+
+45
+00:02:08,000 --> 00:02:10,000
+can see more suggestions from the AI
+
+46
+00:02:10,000 --> 00:02:12,000
+that you might like better.
+
+47
+00:02:12,000 --> 00:02:16,000
+The other way that you can use GitHub Copilot right in your code
+
+48
+00:02:16,000 --> 00:02:20,000
+is to chat with it directly, right here, using something
+
+49
+00:02:20,000 --> 00:02:22,000
+that's called inline chat.
+
+50
+00:02:22,000 --> 00:02:27,000
+This can be triggered with the Control or Command and I keys.
+
+51
+00:02:27,000 --> 00:02:29,000
+None of this code actually exists in your file
+
+52
+00:02:29,000 --> 00:02:30,000
+until you accept it.
+
+53
+00:02:30,000 --> 00:02:34,000
+So if you hit Escape, it will all just go away, no harm, no foul.
+
+54
+00:02:34,000 --> 00:02:39,000
+Inline chat is great for iterating on your code right in line.
+
+55
+00:02:39,000 --> 00:02:40,000
+So for instance, here, perhaps we
+
+56
+00:02:40,000 --> 00:02:43,000
+want to return a static file at this route instead
+
+57
+00:02:43,000 --> 00:02:46,000
+of what Copilot gave us, so we can highlight the block
+
+58
+00:02:46,000 --> 00:02:48,000
+and iterate on that with inline chat.
+
+59
+00:02:48,000 --> 00:02:50,000
+And inline chat always gives you a diff view,
+
+60
+00:02:50,000 --> 00:02:52,000
+showing you what's been added and changed.
+
+61
+00:02:52,000 --> 00:02:55,000
+So that you can be sure that this is what you want
+
+62
+00:02:55,000 --> 00:02:56,000
+before you accept it.
+
+63
+00:02:56,000 --> 00:03:00,000
+GitHub Copilot also features a more traditional dedicated chat
+
+64
+00:03:00,000 --> 00:03:02,000
+area in the sidebar that you can access
+
+65
+00:03:02,000 --> 00:03:05,000
+by clicking on the chat icon.
+
+66
+00:03:05,000 --> 00:03:07,000
+If you've ever used another AI chat before,
+
+67
+00:03:07,000 --> 00:03:09,000
+this will feel very familiar.
+
+68
+00:03:09,000 --> 00:03:13,000
+While ghost text inline chat are good for helping you code faster,
+
+69
+00:03:13,000 --> 00:03:16,000
+chat is good for helping you solve problems
+
+70
+00:03:16,000 --> 00:03:18,000
+and make decisions quicker.
+
+71
+00:03:18,000 --> 00:03:21,000
+It is terrific for brainstorming and figuring out
+
+72
+00:03:21,000 --> 00:03:22,000
+implementation details.
+
+73
+00:03:22,000 --> 00:03:24,000
+You can always customize where the chat appears
+
+74
+00:03:24,000 --> 00:03:25,000
+in your editor.
+
+75
+00:03:25,000 --> 00:03:28,000
+So for instance, if you'd like to see your code
+
+76
+00:03:28,000 --> 00:03:31,000
+and your project files in the chat all at the same time,
+
+77
+00:03:31,000 --> 00:03:33,000
+you can click on the secondary sidebar icon
+
+78
+00:03:33,000 --> 00:03:36,000
+and just drag the chat into that sidebar.
+
+79
+00:03:36,000 --> 00:03:38,000
+All of your chats are saved to a history
+
+80
+00:03:38,000 --> 00:03:41,000
+that you can access at any time with the history icon
+
+81
+00:03:41,000 --> 00:03:43,000
+at the top of the chat.
+
+82
+00:03:43,000 --> 00:03:46,000
+There are a few other places that you'll find GitHub Copilot,
+
+83
+00:03:46,000 --> 00:03:48,000
+and it can be quite useful.
+
+84
+00:03:48,000 --> 00:03:50,000
+One of them is when you have a problem in your code,
+
+85
+00:03:50,000 --> 00:03:53,000
+you'll find GitHub Copilot here in the light bulb
+
+86
+00:03:53,000 --> 00:03:57,000
+or quick suggestion menu, where it can explain
+
+87
+00:03:57,000 --> 00:04:00,000
+and often even fix your errors right in line.
+
+88
+00:04:00,000 --> 00:04:04,000
+Copilot is extremely good at fixing silly mistakes
+
+89
+00:04:04,000 --> 00:04:08,000
+and explaining compiler errors that otherwise make no sense.
+
+90
+00:04:08,000 --> 00:04:10,000
+You'll also find GitHub Copilot anywhere
+
+91
+00:04:10,000 --> 00:04:12,000
+that you see this sparkle icon.
+
+92
+00:04:12,000 --> 00:04:15,000
+This includes places like the terminal
+
+93
+00:04:15,000 --> 00:04:18,000
+and anywhere that GitHub Copilot might be able to help you out.
+
+94
+00:04:18,000 --> 00:04:21,000
+All you have to do is keep your eye out for the sparkle
+
+95
+00:04:21,000 --> 00:04:23,000
+and when you see it, give it a click
+
+96
+00:04:23,000 --> 00:04:27,000
+and see what Copilot can do for you right then and there.
+
+97
+00:04:27,000 --> 00:04:30,000
+And believe it or not, that's it.
+
+98
+00:04:30,000 --> 00:04:32,000
+You now know the essentials of how to interact
+
+99
+00:04:32,000 --> 00:04:33,000
+with GitHub Copilot.
+
+100
+00:04:33,000 --> 00:04:38,000
+Go forth and see how much better life can be as a developer.
+
+101
+00:04:38,000 --> 00:04:39,000
+And make sure you check out our other videos
+
+102
+00:04:39,000 --> 00:04:43,000
+on GitHub Copilot for all your AI coding needs.
+
+103
+00:04:43,000 --> 00:04:44,000
+Happy coding.
+
