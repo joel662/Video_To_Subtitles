@@ -1,699 +1,412 @@
 1
 00:00:00,000 --> 00:00:03,000
-Congratulations! You now have GitHub Copilot at your disposal.
-
-OR
-
-Enjoy your new tool, GitHub Copilot!
-
-OR
-
-Well done! You now own the GitHub Copilot.
-
-OR
-
-With GitHub Copilot now yours, here's to productive coding!
+So you've got GitHub Copilot, congrats.
 
 2
 00:00:03,000 --> 00:00:06,000
-Copilot serves to advance your programming skills as a developer.
-
-Or, alternatively:
-
-   Copilot is designed to enhance your developmental skills as a programmer.
+Copilot can help you level up your skills as a developer
 
 3
 00:00:06,000 --> 00:00:09,000
-In methods you likely considered impossible, this was achieved.
+in ways that you probably thought were not possible,
 
 4
 00:00:09,000 --> 00:00:12,000
-Indeed, now that you possess it, where should one begin?
+seriously, but now that you've got it, where do you start?
 
 5
 00:00:12,000 --> 00:00:13,000
-How does this function? or How is it operated? (These both convey the same intent as the original but with slightly different phrasing.)
+How does it work?
 
 6
 00:00:13,000 --> 00:00:14,000
-What specific knowledge or skills are you seeking to acquire?
+What do you need to learn?
 
 7
 00:00:14,000 --> 00:00:17,000
-In this video, we will address all those questions.
+We're gonna answer all of that in this video.
 
 8
 00:00:17,000 --> 00:00:19,000
-I believe you will discover that after learning how and where, [you/it] will find it.
+And I think you'll find that once you know how and where
 
 9
 00:00:19,000 --> 00:00:24,000
-To utilize Copilot, it's incredibly straightforward to significantly enhance your performance.
-
-Alternatively:
-For using Copilot, it's extremely easy to make a substantial improvement.
-
-Or:
-With Copilot, it's quite effortless to achieve a considerable enhancement.
+to use Copilot, it is pretty simple to dramatically increase
 
 10
 00:00:24,000 --> 00:00:26,000
-Boosts your speed and productivity swiftly.
+your speed and productivity almost immediately.
 
 11
 00:00:26,000 --> 00:00:29,000
-The secret behind GitHub Copilot lies in the absence of anything specific.
+The secret of GitHub Copilot is that there isn't anything
 
 12
 00:00:29,000 --> 00:00:33,000
-Specific steps required for effective interaction with it.
-
-or
-
-   Steps necessary for learning how to engage with it.
-
-or
-
-   Essential methods to grasp how to connect with it.
+special that you need to do to learn how to interact with it.
 
 13
 00:00:33,000 --> 00:00:37,000
-To utilize GitHub Copilot, simply code.
+All you have to do to use GitHub Copilot is code.
 
 14
 00:00:37,000 --> 00:00:38,000
-That concludes it.
+That's it.
 
 15
 00:00:38,000 --> 00:00:40,000
-Code as Usual
-
-Or
-
-Code in Your Regular Manner
-
-(The original text was a bit unclear because "just" implies a casual or simplified action, but coding isn't typically thought of as an easy or simple task, so the new versions emphasize that the instructions are to code as one would usually do.)
+Just code like you normally would
 
 16
 00:00:40,000 --> 00:00:42,000
-Observe as AI gets to task.
+and watch the AI go to work.
 
 17
 00:00:42,000 --> 00:00:46,000
-This text is referred to as "ghost text," which is activated by default. (Or) This appears to be "ghost text"; it's set to auto-activate.
+This is called ghost text, and it's automatically turned on
 
 18
 00:00:46,000 --> 00:00:50,000
-Upon extension installation and logging into GitHub Copilot.
-
-Here's another option for a more concise version:
-
-Install the extension and then log in to GitHub Copilot.
+when you install the extension and log in to GitHub Copilot.
 
 19
 00:00:50,000 --> 00:00:53,000
-You can confirm that Copilot is operational by verifying its status.
-
-   or
-
-   To ensure Copilot is functioning, check its status.
-
-   or (informal)
-
-   Make sure Copilot's on? Check its status to be sure.
+You can verify that Copilot is active by checking
 
 20
 00:00:53,000 --> 00:00:57,000
-For the GitHub Copilot icon located within your status bar, please refer to it here.
+for the GitHub Copilot icon down here in your status bar.
 
 21
 00:00:57,000 --> 00:01:02,000
-To deactivate Copilot for a particular file or language:
-
-Or, alternatively:
-
-If you wish to disable Copilot for a specific file or language.
-
-Both versions convey the same meaning and have improved clarity and grammar compared to the original.
+And if you want to turn Copilot off for a specific file or language,
 
 22
 00:01:02,000 --> 00:01:04,000
-Click on this icon to deactivate it.
-
-Or if you prefer a more concise version:
-
-Click icon to disable.
+click on this icon and you can disable it.
 
 23
 00:01:04,000 --> 00:01:07,000
-You can also instigate ghost text by posting a comment (improved grammar and simplified sentence structure)
+You can also trigger ghost text by writing a comment
 
 24
 00:01:07,000 --> 00:01:09,000
-Requesting What You Desire
-
-or
-
-Expressing Your Preferences
-
-or
-
-Communicating Your Wants
-
-or
-
-Articulating Your Needs
-
-Each of these options keeps the main idea, "expressing" or "communicating," while improving the clarity and grammar. They also focus on the concept of wanting or needing something, which seems to be the intention behind the original text.
+expressing what you want.
 
 25
 00:01:09,000 --> 00:01:13,000
-To confirm a ghost text entry, press 'Tab'.
+To accept a ghost text completion, press Tab.
 
 26
 00:01:13,000 --> 00:01:15,000
-If you desire a specific portion of the ghost text alone, please specify it.
+If you only want part of the ghost text,
 
 27
 00:01:15,000 --> 00:01:17,000
-You may simply keep holding down the designated command keys on the controller.
+you can just hold down the controller command keys
 
 28
 00:01:17,000 --> 00:01:21,000
-Press the right arrow key to either accept a large or small amount of it.
-
-or
-
-Press the right arrow button to either fully accept or partially accept it.
+and press the right arrow to accept as much or little of it
 
 29
 00:01:21,000 --> 00:01:22,000
-As desired. (Keeping the original intent unchanged.)
+as you want.
 
 30
 00:01:22,000 --> 00:01:26,000
-You can press Esc key anytime to close the ghost text. (Alternatively, dismiss the ghost text.)
+And you can hit Escape at any time to dismiss the ghost text.
 
 31
 00:01:26,000 --> 00:01:28,000
-"Perform multiple tasks using merely phantom text" or "Achieve much with only the use of ghost text" (both maintain the original meaning but improve readability and clarity)
+You can do a lot with just ghost text,
 
 32
 00:01:28,000 --> 00:01:31,000
-1. Discover for yourself that Copilot is exceptionally competent.
-2. Uncover the fact that Copilot is quite impressive.
-3. You will realize that Copilot is truly remarkable.
-4. It will become evident to you that Copilot performs exceptionally well.
-5. Observe for yourself that Copilot is surprisingly proficient.
-6. Witness firsthand the high level of competence displayed by Copilot.
-7. Experience personally the greatness of Copilot's abilities.
+and you'll find that Copilot is remarkably good
 
 33
 00:01:31,000 --> 00:01:35,000
-Anticipating your next action and handling much of the tasks for you.
+at anticipating your next move and doing a lot of the work for you.
 
 34
 00:01:35,000 --> 00:01:39,000
-For instance, when I define a variable named "nums"
-
-Alternatively:
-
-   For example, I name a variable as "nums"
-
-   As an illustration, I label a variable "nums"
-
-   To give an example, I call my variable "nums"
-
-   For demonstration purposes, I label the variable as "nums"
-
-   In order to provide an example, I designate the variable as "nums"
-
-Each of these variations maintains the original meaning while improving the clarity and grammar.
+For example, if I create a variable called nums,
 
 35
 00:01:39,000 --> 00:01:42,000
-Copilot Provides Me with What Seems Desired According to the Name of the Variable
-
-or
-
-Copilot Delivers What Appears Desired Based on the Named Variable's Designation
-
-or (for a more informal tone)
-
-Copilot Gives Me What I Seem to Want, Based on Variable Name
-
-or (for a shorter version)
-
-Copilot - Variable-Based Selection
+Copilot gives me what I probably want based on the name of the variable
 
 36
 00:01:42,000 --> 00:01:46,000
-1. The function within the file currently operates on an array of numbers.
-
-Alternatively:
-
-2. In the present state, the function handles an array of numbers within the file.
-
-Or for a more concise version:
-
-3. Function in file deals with an array of numbers.
+and the function in the file already, an array of numbers.
 
 37
 00:01:46,000 --> 00:01:48,000
-1. If I press "Enter" under the defined function, it will execute the code within that function.
-2. When "Enter" is pressed beneath the function definition, the code contained therein will be executed.
-3. Pressing "Enter" below the function causes the enclosed code to run.
-4. Upon pressing "Enter" below a function, the code inside the function will be invoked.
-5. Depressing "Enter" under a function leads to the execution of the function's contained code.
+And if I press Enter below the function,
 
 38
 00:01:48,000 --> 00:01:51,000
-It supposes that I intend to invoke the function. (or) It supposes my intention is to execute the function. (or) It postulates that I wish to trigger the function.
+it assumes that I want to call the function
 
 39
 00:01:51,000 --> 00:01:54,000
-1. Assign the "nums" variable as expected.
-   2. The "nums" variable should be input as intended.
-   3. Please input the "nums" variable as specified.
-   4. Ensure that the "nums" variable is passed in.
-   5. Passing the correct "nums" variable is crucial.
-   6. I need you to pass the "nums" variable correctly.
-   7. Kindly input the "nums" variable as requested.
-   8. The "nums" variable must be handed over.
-   9. I require that the "nums" variable be passed in.
-  10. To meet my requirements, pass the "nums" variable.
+and pass in the nums variable, which is exactly what I want.
 
 40
 00:01:54,000 --> 00:01:56,000
-Now, the Ghost Text may grant your wishes. (This version aims to improve clarity while maintaining the original intent.)
+Now, ghost text may give you what you want,
 
 41
 00:01:56,000 --> 00:01:59,000
-It might be near and nearly correct, yet still not quite accurate.
+or it may be close and almost, but amiss.
 
 42
 00:01:59,000 --> 00:02:02,000
-In such a scenario, several possible alternatives may be viewed.
+In that case, you can see some alternative suggestions
 
 43
 00:02:02,000 --> 00:02:06,000
-Press the 'Control' or 'Command' key along with the 'Enter' key.
+by pressing the Control or Command and Enter keys.
 
 44
 00:02:06,000 --> 00:02:08,000
-This displays a side panel for your interaction.
+This opens up a side panel where you
 
 45
 00:02:08,000 --> 00:02:10,000
-View Additional Suggestions Provided by AI
-
-or
-
-Additional AI-Generated Suggestions Within View
-
-or
-
-AI Has More Suggestions to Showcase
-
-or (for a shorter version)
-
-More AI Suggestions Available
-
-All of these versions maintain the core meaning and are grammatically correct while improving readability.
+can see more suggestions from the AI
 
 46
 00:02:10,000 --> 00:02:12,000
-You may prefer this option instead.
+that you might like better.
 
 47
 00:02:12,000 --> 00:02:16,000
-1. Another Method to Utilize GitHub Copilot Directly in Your Code
-
-2. Alternative Approach for Using GitHub Copilot Instantly in Your Coding
-
-3. Second Technique to Employ GitHub Copilot Immediately Within Your Code
-
-4. Additional Strategy for Implementing GitHub Copilot Directly into Your Code
-
-5. Further Method for Activating GitHub Copilot Directly in Your Coding Environment
+The other way that you can use GitHub Copilot right in your code
 
 48
 00:02:16,000 --> 00:02:20,000
-To communicate with it directly, here, by making use of something (platform/tool)
+is to chat with it directly, right here, using something
 
 49
 00:02:20,000 --> 00:02:22,000
-That is referred to as Inline Chat.
+that's called inline chat.
 
 50
 00:02:22,000 --> 00:02:27,000
-This action can be initiated using the 'Control' or 'Command' key in combination with the 'I' key.
+This can be triggered with the Control or Command and I keys.
 
 51
 00:02:27,000 --> 00:02:29,000
-The given code does not appear in your current file.
+None of this code actually exists in your file
 
 52
 00:02:29,000 --> 00:02:30,000
-Until you acknowledge it. (or Until you agree with it.)
+until you accept it.
 
 53
 00:02:30,000 --> 00:02:34,000
-If you press the Escape key, everything will disappear with no damage or blame involved.
+So if you hit Escape, it will all just go away, no harm, no foul.
 
 54
 00:02:34,000 --> 00:02:39,000
-Inline chat facilitates efficient code iteration directly within it.
+Inline chat is great for iterating on your code right in line.
 
 55
 00:02:39,000 --> 00:02:40,000
-For example, in this case, let us consider the possibility of
+So for instance, here, perhaps we
 
 56
 00:02:40,000 --> 00:02:43,000
-Desire to Serve a Static File at This Particular Route Instead
-
-(or alternatively)
-
-Intend to Deliver a Static File Via This Specific Route Instead
-
-(or also)
-
-Preference for Sending a Static File Along This Designated Route Instead
+want to return a static file at this route instead
 
 57
 00:02:43,000 --> 00:02:46,000
-From what Copilot provided, let us emphasize the section.
-
-or alternatively:
-
-With the data that Copilot shared, let us focus on this segment.
+of what Copilot gave us, so we can highlight the block
 
 58
 00:02:46,000 --> 00:02:48,000
-1. Revise and refine this further using real-time conversation (inline chat).
-
-or
-
-  2. Continue to develop and enhance this, employing in-line discussion for feedback.
+and iterate on that with inline chat.
 
 59
 00:02:48,000 --> 00:02:50,000
-Inline chat offers a distinct perspective at all times.
+And inline chat always gives you a diff view,
 
 60
 00:02:50,000 --> 00:02:52,000
-Initially: "New features we've added in this release"
-
-Improved version: "Features Added in This Release (Highlights)"
-
-Initially: "Bug fixes and improvements for existing features"
-
-Improved version: "Bug Fixes and Enhancements to Existing Features"
-
-Initially: "Introducing our new partnership with Acme Corp."
-
-Improved version: "Announcing Our New Partnership with Acme Corporation"
+showing you what's been added and changed.
 
 61
 00:02:52,000 --> 00:02:55,000
-To ensure this aligns with your expectations.
-
-Or more concisely:
-For confirmation that this matches your desires.
+So that you can be sure that this is what you want
 
 62
 00:02:55,000 --> 00:02:56,000
-Before your acceptance, consider it.
+before you accept it.
 
 63
 00:02:56,000 --> 00:03:00,000
-GitHub Copilot additionally offers a conventional dedicated chat interface.
+GitHub Copilot also features a more traditional dedicated chat
 
 64
 00:03:00,000 --> 00:03:02,000
-Sidebar section accessible to you
-
-or
-
-Accessible sidebar section
-
-Both options convey the same meaning as the original text but are clearer and grammatically correct. The first option emphasizes that it is a specific area within the sidebar, while the second option highlights that the sidebar itself can be accessed (which was slightly implied in the original text).
+area in the sidebar that you can access
 
 65
 00:03:02,000 --> 00:03:05,000
-1. To click on the chat icon.
-2. Click on the icon for chat.
-3. Accessing chat via the icon click.
-4. Click the chat icon to proceed.
-5. Proceed by clicking on the chat icon.
-6. Initiate chat with a click on the icon.
-7. To start a conversation, click the chat icon.
-8. Click the icon for initiating chat.
-9. Commence your chat by clicking the icon.
-10. Interact through the chat icon by clicking.
+by clicking on the chat icon.
 
 66
 00:03:05,000 --> 00:03:07,000
-If you have previously utilized another artificial intelligence chat service,
+If you've ever used another AI chat before,
 
 67
 00:03:07,000 --> 00:03:09,000
-This will seem extraordinarily familiar.
+this will feel very familiar.
 
 68
 00:03:09,000 --> 00:03:13,000
-While in-line ghost text within chat systems can aid in coding more swiftly, it also poses certain challenges.
-
-In this revised version, I have kept the original idea but added a sentence to address potential difficulties that may arise with using in-line ghost text in chat systems while coding.
+While ghost text inline chat are good for helping you code faster,
 
 69
 00:03:13,000 --> 00:03:16,000
-Chat assists in resolving issues effectively
+chat is good for helping you solve problems
 
 70
 00:03:16,000 --> 00:03:18,000
-Make decisions more swiftly.
-
-Here are some options for improved clarity:
-
-1.   Streamline your decision-making process.
-2.   Speed up the decision-making timeline.
-3.   Expedite your choices.
-4.   Decide faster and more efficiently.
-5.   Accelerate your ability to make decisions.
+and make decisions quicker.
 
 71
 00:03:18,000 --> 00:03:21,000
-It's excellent for brainstorming sessions and problem-solving.
-
-Or alternatively:
-Ideal for brainstorming and solving problems.
+It is terrific for brainstorming and figuring out
 
 72
 00:03:21,000 --> 00:03:22,000
-Detailed Implementation
-
-In this case, I have adjusted "implementation details" to "Detailed Implementation". This maintains the original meaning but presents it in a clearer and more engaging manner for readers, making it easier for them to understand what the content will cover.
+implementation details.
 
 73
 00:03:22,000 --> 00:03:24,000
-You have the option to customize the location of the chat at all times.
+You can always customize where the chat appears
 
 74
 00:03:24,000 --> 00:03:25,000
-In your editing tool.
+in your editor.
 
 75
 00:03:25,000 --> 00:03:28,000
-In other words, if you wish to view your code, please do so.
+So for instance, if you'd like to see your code
 
 76
 00:03:28,000 --> 00:03:31,000
-Simultaneously share and transfer your project files within the chat.
+and your project files in the chat all at the same time,
 
 77
 00:03:31,000 --> 00:03:33,000
-1. You may click on the icon located in the secondary sidebar.
-2. Click the icon situated within the secondary sidebar.
-3. The icon in the secondary sidebar is clickable.
-4. To access it, click on the icon in the secondary sidebar.
-5. The secondary sidebar contains an icon that you can click.
-6. You are able to click the icon found in the secondary sidebar.
-7. Click the image within the secondary sidebar for action.
-8. On the secondary sidebar, there's an icon you can interact with by clicking.
+you can click on the secondary sidebar icon
 
 78
 00:03:33,000 --> 00:03:36,000
-Please move the conversation to the sidebar by simply dragging it there.
+and just drag the chat into that sidebar.
 
 79
 00:03:36,000 --> 00:03:38,000
-All conversations are stored in a history.
-
-or
-
-Your chats are archived in a history.
-
-or
-
-A history contains all of your chats.
-
-Each of these versions maintains the original meaning while improving clarity and grammar.
+All of your chats are saved to a history
 
 80
 00:03:38,000 --> 00:03:41,000
-Accessible anytime via the History Icon
-
-or
-
-Anytime Access with the History Icon
-
-Both are clear, grammatically correct, and convey the same meaning as your original text.
+that you can access at any time with the history icon
 
 81
 00:03:41,000 --> 00:03:43,000
-At the peak of the conversation.
+at the top of the chat.
 
 82
 00:03:43,000 --> 00:03:46,000
-You can locate a few additional spots where GitHub Copilot is available.
+There are a few other places that you'll find GitHub Copilot,
 
 83
 00:03:46,000 --> 00:03:48,000
-"It can also prove quite beneficial."
+and it can be quite useful.
 
 84
 00:03:48,000 --> 00:03:50,000
-One instance occurs when you encounter an issue within your coding.
+One of them is when you have a problem in your code,
 
 85
 00:03:50,000 --> 00:03:53,000
-You will discover GitHub Copilot located within the lightbulb icon here.
+you'll find GitHub Copilot here in the light bulb
 
 86
 00:03:53,000 --> 00:03:57,000
-Quick Suggestion Menu for Explanation
-
-The revised version aims to clarify the original text by providing a more descriptive title. The key points I addressed include improving clarity and grammar while ensuring that the essence of the original text remains unchanged. Here's a brief explanation of the changes made:
-
-1. Or -> Quick Suggestion Menu for Explanation: Replacing "or" with a more descriptive title helps provide a clearer understanding of what the menu is intended for.
-2. it can explain -> explains: Using the verb in its third-person singular form makes the sentence grammatically correct.
-3. where -> for explanation: Adding "for" before "explanation" makes the purpose of the quick suggestion menu more explicit.
+or quick suggestion menu, where it can explain
 
 87
 00:03:57,000 --> 00:04:00,000
-Correct errors in-line as you go along.
-
-Or, more succinctly: Inline correction of errors.
+and often even fix your errors right in line.
 
 88
 00:04:00,000 --> 00:04:04,000
-Copilot Excellently Corrects Ridiculous Errors
-
-Or
-
-Copilot Exceptionally Addresses Foolish Mistakes
-
-Or
-
-Copilot Outstandingly Rectifies Silly Blunders
-
-These options maintain the meaning of the original text but are written in a more formal and clear manner.
+Copilot is extremely good at fixing silly mistakes
 
 89
 00:04:04,000 --> 00:04:08,000
-1. Clarifying and Elucidating Compiler Errors That Otherwise Remain Incomprehensible
-
-  2. Elucidating and Explicating Baffling Compiler Errors for Easier Understanding
-
-  3. Making Sense of the Inexplicable: Explaining Perplexing Compiler Errors
-
-  4. Demystifying and Illuminating Obfuscated Compiler Errors
-
-  5. Unraveling the Enigmas of Inscrutable Compiler Errors
-
-  6. Translating the Arcane: Elucidating Puzzling Compiler Errors
-
-  7. Explaining the Mysteries of Perplexing Compiler Errors
-
-  8. Illuminating the Dark Corners of Baffling Compiler Errors
-
-  9. Dissecting and Interpreting Inscrutable Compiler Errors
-
- 10. Enlightening the Unfathomable: Clarifying Obfuscated Compiler Errors
-
-Pick one that best suits your preference, or combine a few to create a unique title!
+and explaining compiler errors that otherwise make no sense.
 
 90
 00:04:08,000 --> 00:04:10,000
-You will discover GitHub Copilot in various locations. (or alternatively: You can locate GitHub Copilot in multiple places.)
+You'll also find GitHub Copilot anywhere
 
 91
 00:04:10,000 --> 00:04:12,000
-Observe the sparkle icon that is visible to you.
+that you see this sparkle icon.
 
 92
 00:04:12,000 --> 00:04:15,000
-This encompasses locations such as the terminals.
+This includes places like the terminal
 
 93
 00:04:15,000 --> 00:04:18,000
-"In any location where GitHub Copilot can assist you."
+and anywhere that GitHub Copilot might be able to help you out.
 
 94
 00:04:18,000 --> 00:04:21,000
-Simply watch for the sparkle is all you need to do.
+All you have to do is keep your eye out for the sparkle
 
 95
 00:04:21,000 --> 00:04:23,000
-1. Upon seeing it, please click on it.
-2. When you observe it, kindly give it a click.
-3. When spotted, feel free to click on it.
-4. As soon as you notice it, click on it for further details.
-5. Spotting it? Don't forget to give it a click!
-6. Upon your sight of it, click on it accordingly.
-7. When coming across it, don't miss the chance to click on it.
+and when you see it, give it a click
 
 96
 00:04:23,000 --> 00:04:27,000
-Witness Copilot in action and discover its capabilities immediately.
+and see what Copilot can do for you right then and there.
 
 97
 00:04:27,000 --> 00:04:30,000
-And surprisingly enough, that concludes everything.
+And believe it or not, that's it.
 
 98
 00:04:30,000 --> 00:04:32,000
-Now, you have learned the fundamentals of interaction.
+You now know the essentials of how to interact
 
 99
 00:04:32,000 --> 00:04:33,000
-With GitHub Copilot as Your Partner.
+with GitHub Copilot.
 
 100
 00:04:33,000 --> 00:04:38,000
-Venture out to witness the enhanced quality of life that comes with being a developer.
+Go forth and see how much better life can be as a developer.
 
 101
 00:04:38,000 --> 00:04:39,000
-Ensure to also explore our additional video content.
-
-Or, more concisely:
-
-Explore more videos here.
+And make sure you check out our other videos
 
 102
 00:04:39,000 --> 00:04:43,000
-On GitHub Copilot to fulfill all your artificial intelligence programming requirements.
+on GitHub Copilot for all your AI coding needs.
 
 103
 00:04:43,000 --> 00:04:44,000
-Coding happily.
-   or
-   Enjoy your coding.
-   or
-   Keep on coding with joy.
-   or
-   Happy days of coding.
+Happy coding.
 

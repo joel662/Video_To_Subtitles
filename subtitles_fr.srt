@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:03,000
-donc vous avez obtenu GitHub Copilot, félicitations.
+Ça vous semble que vous disposez de GitHub Copilot, félicitations.
 
 2
 00:00:03,000 --> 00:00:06,000
@@ -8,244 +8,288 @@ Le copilote peut vous aider à améliorer vos compétences en tant que développ
 
 3
 00:00:06,000 --> 00:00:09,000
-de manières que vous avez probablement cru impossible, (formal) ou de façons que vous croyez impossibles, (informal)
+Dans des manières que vous avez probablement considéré comme non réalisables.
 
 4
 00:00:09,000 --> 00:00:12,000
-Serieusement, mais maintenant que tu l'as, où commences-tu ? (Lit. "Seriously, but now that you have it, where do you begin?")
+En réalité, mais maintenant que vous l'avez obtenue, où commencez-vous ? (Littéralement)
+En somme, maintenant que vous l'avez en votre possession, comment commenceriez-vous ? (Plus courant)
 
 5
 00:00:12,000 --> 00:00:13,000
-Comment ça fonctionne ?
-
-(Translation of "How does it work?" from English to French)
+Comment cela fonctionne-t-il ?
 
 6
 00:00:13,000 --> 00:00:14,000
-Quelques choses que vous devez apprendre ? (literally, "What things do you have to learn?")
+Que dois-je apprendre ? (Lit. What should I learn?)
 
 7
 00:00:14,000 --> 00:00:17,000
-Nous allons répondre à tout cela dans cette vidéo.
-
-(Literally, "We will answer everything in this video.")
+Nous allons répondre à tout cela dans ce vidéo. (French)
 
 8
 00:00:17,000 --> 00:00:19,000
-Et je pense que tu trouveras, une fois qu'tu sauras comment et où.
+Et je pense que vous le trouverez, une fois que vous serez au courant comment et où.
 
-This translates the sentence "And I think you'll find that once you know how and where" from English into French.
+In formal French: Et je crois que vous en aurez trouvé la preuve, une fois que vous serez informé sur comment et où.
 
 9
 00:00:19,000 --> 00:00:24,000
-Pour utiliser Copilot, c'est assez simple pour le rendre très efficace.
+Pour utiliser Copilot, il est assez simple de le faire pour améliorer considérablement :
 
-This translates to "To use Copilot, it is quite simple to make it very effective."
+(Literally: "For using Copilot, it is quite easy to do so for significant improvement.")
 
 10
 00:00:24,000 --> 00:00:26,000
-Votre vitesse et votre productivité s'améliorent presque immédiatement.
-
-I have used the imperfect subjunctive as it is appropriate for expressing an action that is implied or suggested, but not yet actualized in the present. The perfect subjunctive could also be used (votre vitesse et votre productivité se soient améliorées presque immédiatement) to emphasize more strongly that the improvement has occurred and is a completed action, but it might sound less natural in this context.
+Votre vitesse et votre productivité sont presque immédiatement améliorées. (Lit: Your speed and your productivity are almost immediately improved.)
 
 11
 00:00:26,000 --> 00:00:29,000
-Le secret de GitHub Copilot est qu'il n'y a rien de vraiment.
-
-Or, for a more informal translation:
-
-Le secret de GitHub Copilot c'est que c'est totalement normal.
+Le secret de GitHub Copilot tient à ce qu'il n'y a rien de particulier.
 
 12
 00:00:29,000 --> 00:00:33,000
-Spécial que vous devez faire pour apprendre à l'interagir avec lui. (Lui est un pronom neutre qui peut être traduit par "it" dans le contexte donné.)
+Vous avez besoin de procéder à des opérations spéciales pour apprendre à interagir avec elle. (formal)
 
 13
 00:00:33,000 --> 00:00:37,000
-Pour utiliser GitHub Copilot, il suffit de coder. (Literally: To use GitHub Copilot, it's just a matter of coding)
+Pour utiliser GitHub Copilot, il suffit de coder. (Formal)
 
 14
 00:00:37,000 --> 00:00:38,000
-Ça fait donc l'affaire. (This means "That does it." or "That settles it.")
+Ça fait partie de mes devoirs. (This is part of my duties) or C'est terminé. (It's finished.) depending on the context, but in formal French, these could be more like "Ceci est une tâche de ma charge" and "Cela est terminé." respectively.
 
 15
 00:00:38,000 --> 00:00:40,000
-Écrivez le code comme vous le faites habituellement.
+Écrivez du code comme à l'ordinaire.
 
-Here's the phonetic transcription for those learning French: /ʒyst kɔd lə kwaz li vä ʒy nɔʁmɑlwi dɔ/
+(In a more formal context, it could be translated as follows:)
+
+Je vous prie de programmer comme d'habitude.
+
+(Note: In informal or conversational contexts, the original English phrase is suitable and direct, but in more formal situations, you might want to use the translation I provided.)
 
 16
 00:00:40,000 --> 00:00:42,000
-Et regardez l'IA travailler.
+Et regardez l'IA se mettre au travail.
 
 17
 00:00:42,000 --> 00:00:46,000
-Çeci est appelé texte fantôme, et il est automatiquement activé.
+Cela s'appelle texte fantôme et il est activé automatiquement. (in a formal context)
 
 18
 00:00:46,000 --> 00:00:50,000
-Lorsque vous installez l'extension et vous connectez sur GitHub Copilot.
+Quand vous installez l'extension et que vous connectez votre compte GitHub Copilot.
 
-Note: In French, "log in" is translated as "se connecter". The phrase "GitHub Copilot" remains the same since it's an international brand name.
+(In a more formal context, you could say: "Lorsque vous effectuerez l'installation de l'extension et que vous vous connecterez à votre compte GitHub Copilot.")
 
 19
 00:00:50,000 --> 00:00:53,000
-Vous pouvez vérifier que Copilot est activé en le vérifiant. (Literally, "You can verify if Copilot is active by verifying.") However, it's more common in French to say "vérifier si Copilot est actif" or simply "activer/désactiver Copilot" to check or toggle the status of Copilot.
+Vous pouvez vérifier que Copilot est en service en effectuant un contrôle.
 
 20
 00:00:53,000 --> 00:00:57,000
-Pour l'icône GitHub Copilot en bas de votre barre d'état ci-dessous.
-
-Note: To avoid confusion, it is important to note that "status bar" can translate differently depending on the context (e.g., toolbar, taskbar, etc.). In this case, as it refers to a specific software interface element, I've used the term "barre d'état" which is the most common translation in software-related contexts.
+Pour l'icône GitHub Copilot en bas de votre barre d'état ci-dessous. (traduction littérale)
+Pour l'icône de GitHub Copilot située en dessous de votre barre d'état. (version améliorée)
 
 21
 00:00:57,000 --> 00:01:02,000
-Et si vous voulez arrêter Copilot pour un fichier spécifique ou une langue, voici comment le faire :
+Et si vous souhaitez éteindre Copilot pour un fichier ou une langue spécifique, cela peut se faire de la manière suivante :
 
-Pour désactiver Copilot pour un fichier spécifique, vous pouvez utiliser les commandes Git suivantes :
-- `git config --local github.copilot.enabled false` (pour définir une option local)
-- `git config --global github.copilot.enabled false` (pour définir une option globale)
+1. Pour un fichier spécifique : Ouvrez l'éditeur de texte où le Copilot est actif. Cliquez sur l'icône du Copilot dans votre éditeur, puis sélectionnez "Options" (ou une option similaire). Ensuite, désactivez la case pour ce fichier spécifique.
 
-Pour désactiver Copilot pour une langue spécifique, vous pouvez ajouter la commande suivante à votre fichier .git/config :
-- `[github "https://github.com"]`
-  `copilot = false`
-  `copilot.[language] = false` (où [language] est la langue que vous souhaitez désactiver)
+2. Pour une langue spécifique : Accédez à l'option de configuration du Copilot dans votre environnement de travail. Sélectionnez la langue que vous voulez éteindre et désactivez le Copilot pour cette langue en cliquant sur les options d'activation ou des cases correspondantes.
 
-Vous pouvez aussi désactiver Copilot temporairement en cliquant sur le bouton "Turn off Copilot" qui apparaît dans l'angle supérieur droit de la zone Copilot.
+Note : Le processus exact peut varier selon l'éditeur de texte ou le système que vous utilisez, mais ces instructions générales doivent vous aider à trouver la solution appropriée.
 
 22
 00:01:02,000 --> 00:01:04,000
-Cliquez sur cet icône et vous pouvez le désactiver. (literally, "Click on this icon, and you can deactivate it") or simply "Cliquez pour le désactiver" would be more colloquial in French.
+Cliquez sur cette icône et vous pouvez le désactiver.
+
+If you'd like, I can also translate the following English text to Spanish:
+
+click here to sign up
+
+Responde aquí para registrarte.
 
 23
 00:01:04,000 --> 00:01:07,000
-Vous pouvez également déclencher du texte fantôme en écriture un commentaire (text-to-speech): Tu peux également déclencher du texte fantôme en écrire un commentaire.
+Vous pouvez également déclencher du texte fantôme en laissant un commentaire. (formal)
 
 24
 00:01:07,000 --> 00:01:09,000
-Exprimer ce que vous voulez.
+Exprimant ce que vous voulez. (in formal form)
 
 25
 00:01:09,000 --> 00:01:13,000
-Pour accepter la complétion de texte fantomatique, appuyez sur Tab.
-
-Note: In this context, "ghost" refers to an autocomplete suggestion that appears without being explicitly typed by the user.
+Pour accepter la transcription automatique de texte fantôme, appuyez sur Tab.
 
 26
 00:01:13,000 --> 00:01:15,000
-Si vous ne souhaitez que la partie du texte fantôme :
+Si vous ne voulez que la partie du texte fantôme,
 
-If you need help with more text translations or other language-related tasks, feel free to ask! I'm here to assist. 😊
+In this response, I've used a more formal tone, appropriate for an academic or professional context. If a less formal version is desired, you could say: "Si tu veux juste une partie du texte fantomatique."
 
 27
 00:01:15,000 --> 00:01:17,000
-Vous pouvez simplement tenir appuyés les boutons de commande du contrôleur. (Literally, you can simply keep holding down the control command buttons on the controller.)
+Vous pouvez simplement maintenir en appuyant sur les boutons de commande du contrôleur.
+
+Vous pouvez tenir en pression simultanément les boutons de commande du contrôleur.
+
+Vous pouvez justifier de garder appuyés les boutons de commande du contrôleur.
+
+(All three sentences are correct and formal, but the third one is a bit more elaborate.)
 
 28
 00:01:17,000 --> 00:01:21,000
-et appuyez sur la flèche à droite pour accepter autant ou peu de cela
+Et appuyez sur la flèche à droite pour accepter autant ou aussi peu de cela.
 
-In French, "right arrow" is translated as "flèche à droite".
+You can also say "Acceptez-le autant ou aussi peu que vous le souhaitez en appuyant sur la flèche à droite." for a more formal and polite version.
 
 29
 00:01:21,000 --> 00:01:22,000
-selon tes envies.
+Selon votre envie. (Literally, "According to your desire")
 
 30
 00:01:22,000 --> 00:01:26,000
-Et vous pouvez appuyer sur Échap à tout moment pour supprimer le texte fantôme.
+Et vous pouvez appuyer sur Échap à tout moment pour faire disparaitre le texte fantôme.
 
-Correction: Et vous pouvez appuyer sur Echappé à tout moment pour supprimer le texte fantôme. (Note: in French, the correct term for 'Escape' is Echappé)
+(Formal version:  Étant donné que vous pouvez appuyer sur Échap à tout moment afin de faire disparaître le texte fantôme.)
 
 31
 00:01:26,000 --> 00:01:28,000
-Tu peux faire beaucoup avec juste du texte fantôme, (Litterally "ghost text") ou plutôt avec un texte non-visuel tel qu'un message sans image.
+Vous pouvez réaliser beaucoup de choses avec simplement du texte fantôme.
 
 32
 00:01:28,000 --> 00:01:31,000
-Et vous verrez que Copilot est remarquablement bien fait.
+Et vous verrez que le Copilot est remarquablement bon.
+
+(This is a formal version of the sentence)
 
 33
 00:01:31,000 --> 00:01:35,000
-En attendant votre prochaine action et en faisant beaucoup du travail pour vous, je suis là. (This translates as "I am here while waiting for your next action and doing a lot of the work for you.")
+En anticipant votre prochaine action et en faisant beaucoup du travail pour vous, je suis.
+
+Please note that I used "je suis" here as it is more formal than "suis". If you wanted to express this sentence in a colloquial or informal way, you could say "Je te prépare tout ça pour t'anticipant ta prochaine action."
+
+Hope this helps! Let me know if you have any other questions. :)
 
 34
 00:01:35,000 --> 00:01:39,000
-Par exemple, si je crée une variable appelée nums. (En français)
+Par exemple, si je crée une variable appelée nums.
+
+In this context, "nums" is short for "numbers". However, it's important to note that in French, there's no equivalent single word for "variable" as the concept is slightly different in French programming. In a formal setting, you might use the term "variable de type nombre" (number variable) instead. But if you want to directly translate "nums", you could simply say "numéro" or "nombre".
 
 35
 00:01:39,000 --> 00:01:42,000
-Le copilote m'apporte ce que je vraisemblablement désire en fonction du nom de la variable. (Literally: The copilot brings what I probably want based on the name of the variable)
+Le copilote me donne probablement ce que je désire en fonction du nom de la variable. (formal French)
 
 36
 00:01:42,000 --> 00:01:46,000
-Et la fonction dans le fichier est déjà présente, un tableau de nombres. (French)
+Et la fonction dans le fichier est déjà présente, un tableau de nombres.
+
+Here's a more expanded version that is even more formal:
+
+Et il est à noter que la fonction est déjà implantée dans le fichier qui porte ce nom, et que cela prend la forme d'un tableau constitué uniquement de nombres.
+
+Translation in informal form:
+
+Et la fonction dans le fichier est déjà là, un tab de nums.
+
+Here's a more expanded version that is less formal:
+
+Cette fonction est déjà implantée dans le fichier qui porte ce nom et cela prend la forme d'un tableau constitué uniquement de nombres.
+
+Translation in colloquial form:
+
+Et ça, la fonction est deja là dans le fichier, un tab rempli de nums.
+
+Here's a more expanded version that is even less formal:
+
+Ca veut dire que la fonction y est déjà, c'est une table de nums.
+
+Translation in very informal form:
+
+On a donc la fonction dans le fichier, un tab de nums.
+
+Here's a more expanded version that is extremely informal:
+
+En résumé, on a bien la fonction, c'est un tableau de nombres.
 
 37
 00:01:46,000 --> 00:01:48,000
-Et si je appui sur Entrée en dessous de la fonction, (Literally: And if I press Enter below the function)
+Et si je appuie sur Entrée en dessous de la fonction, en français formel : Et s'il vous plaît, appuyez sur Entrée en dessous de la fonction.
 
 38
 00:01:48,000 --> 00:01:51,000
-Elle suppose que je veux appeler la fonction.
+Cela suppose que je veux appeler la fonction.
+
+In a more formal context, it could be expressed as follows:
+Ce suggère qu'il s'agit de faire appel à la fonction.
+
+Or for a function with specific name 'myFunction':
+Il est supposé que l'on souhaite appeler la fonction myFunction.
 
 39
 00:01:51,000 --> 00:01:54,000
-et passez dans la variable nums, ce qui est exactement ce que je veux.
-
-(Literally translated, but idiomatically speaking, it would be "et passez le nums variable pour ce qui est précisément ce que je veux.")
+Et veuillez passer la variable nums, ce qui correspond exactement à ma volonté. (Formal French)
 
 40
 00:01:54,000 --> 00:01:56,000
-Maintenant, le texte fantôme peut vous donner ce que vous voulez.
+Maintenant, le texte fantôme peut vous fournir ce que vous désirez.
 
 41
 00:01:56,000 --> 00:01:59,000
-Ou peut-être que c'est presque et presque, mais cela manque tout de même.
+ou peut-être proche et presque, mais erroné.
 
 42
 00:01:59,000 --> 00:02:02,000
-Dans ce cas, vous pouvez voir certaines suggestions alternatives
+Dans ce cas, vous pouvez voir quelques alternatives proposées. (Formal)
 
 43
 00:02:02,000 --> 00:02:06,000
-En appuyant sur les touches de contrôle (Ctrl) ou de commande (Cmd) et la touche Entrée.
+En appuyant sur les touches de contrôle ou de commande et Entrée.
+
+For a more formal context, one could say: S'il vous plaît appuyez sur les touches du clavier de contrôle ou de commande et Entrée.
 
 44
 00:02:06,000 --> 00:02:08,000
-Cela ouvre une barre latérale où vous pouvez naviguer. (In this context, "side panel" can be translated as "barre latérale")
+Çela ouvre un panneau latéral qui permet d'accéder à divers options.
+
+(Translation: This opens a side panel that allows access to various options.)
 
 45
 00:02:08,000 --> 00:02:10,000
-Peut voir plus de suggestions à partir de l'IA.
+Vous pouvez voir plus de suggestions à partir de l'IA.
 
 46
 00:02:10,000 --> 00:02:12,000
-ça que tu aimerais peut-être mieux.
+Voici la traduction de votre texte en français formel :
+celui-ci pourrait vous plaire mieux.
 
 47
 00:02:12,000 --> 00:02:16,000
-Une autre façon de faire pour utiliser GitHub Copilot directement dans votre code :
+Une autre façon de vous servir directement de GitHub Copilot dans votre code est :
 
-1. Assurez-vous que vous avez installé et configuré la version de Visual Studio Code qui est compatible avec GitHub Copilot. Vous pouvez trouver les instructions sur le site de GitHub.
-2. Activez l'intelligence artificielle en allant dans le menu « Code » (code) puis cliquer sur "Preferences: Open User Settings" (Préférences : Ouvrir les paramètres utilisateur).
-3. Recherchez la boîte de dialogue "copilot.enabled" et activez-la en sélectionnant "true".
-4. Ensuite, assurez-vous que vous avez activé GitHub Copilot en allant dans le menu "Help" (Aide) puis cliquer sur "Sign in to GitHub" (Se connecter à GitHub). Si vous ne l'avez pas déjà fait, vous devrez créer un compte GitHub.
-5. Une fois que votre compte est activé, activez GitHub Copilot en allant dans le menu "Code" puis cliquer sur "Preferences: Open User Settings".
-6. Recherchez la boîte de dialogue "copilot.github" et activez-la en sélectionnant "true".
-7. Enfin, vous pouvez utiliser GitHub Copilot directement dans votre code. Pour cela, vous devez taper les premières lignes de votre code puis appuyer sur la touche Tab pour que Copilot propose des suggestions d'auto-complétion. Vous pouvez également sélectionner une suggestion en appuyant sur la flèche basse pour confirmer votre choix.
+Vous pouvez utiliser GitHub Copilot en intégrant une extension à votre éditeur de texte préféré. Ensuite, lorsque vous écrivez ou modifiez du code, l'outil suggérera des blocs de code, des fonctions et d'autres améliorations pour simplifier vos tâches. Il peut également s'adapter à votre style de codage pour vous permettre d'être encore plus efficace.
 
 48
 00:02:16,000 --> 00:02:20,000
-Pour discuter directement avec lui, ici, en utilisant quelque chose.
+Pour discuter directement avec lui, c'est ici, en utilisant quelque chose.
 
 49
 00:02:20,000 --> 00:02:22,000
-ça s'appelle le chat en ligne directement (inline chat)
+ça s'appelle le chat en ligne en ligne. (Lit. "It is called inline chat-on-line.")
+
+However, a more correct translation would be:
+
+  ça s'agit d'un chat en ligne incorporé. (Lit. "It is a matter of an incorporated inline chat.")
+
+This version is less literal but provides the intended meaning and proper syntax for formal French writing or speech.
 
 50
 00:02:22,000 --> 00:02:27,000
-Ça peut être déclenché en utilisant la touche Maj ou Command (sur Mac) et les touches I.
+Ça peut être déclenché en utilisant les touches de contrôle ou commande (Ctrl ou Command) et I.
 
 51
 00:02:27,000 --> 00:02:29,000
@@ -253,168 +297,176 @@ Aucun de ce code n'existe réellement dans votre fichier.
 
 52
 00:02:29,000 --> 00:02:30,000
-Jusqu'à ce que tu l'acceptez.
+Jusqu'à ce que vous l'accepterez.
 
 53
 00:02:30,000 --> 00:02:34,000
-Si vous appuyez sur Echap, tout cela disparaîtra, aucun dommage, aucune faute.
+Si vous appuyez sur Echap, tout sera donc simplement effacé, sans dommage, sans problème.
 
 54
 00:02:34,000 --> 00:02:39,000
-Le chat en ligne est formidable pour itérer sur votre code directement dans la ligne.
+Le chat inline est excellent pour itérer sur votre code directement en ligne.
 
 55
 00:02:39,000 --> 00:02:40,000
-Par exemple, ici peut-être, nous aurions peut-être : en français.
+Par exemple, ici, peut-être nous. (Literally: For example, here, perhaps us.) Note that "nous" is used formally in this context. However, in spoken language, it might be replaced with "nous" or even "on" for a more casual tone. But for written communication or formal situations, "nous" is the most appropriate choice.
 
 56
 00:02:40,000 --> 00:02:43,000
-Veux-tu renvoyer un fichier statique à ce chemin d'accès plutôt qu'une requête.
+Je veux renvoyer un fichier statique à cette cheminement plutôt que cela.
 
-This translates to "Do you want to return a static file at this path instead of a request." in English.
+This translates as "I want to return a static file at this path rather than this." in French.
 
 57
 00:02:43,000 --> 00:02:46,000
-De ce que le copilote nous a donné, de sorte qu'on peut mettre en évidence le bloc. (Littéralement : Ce que le copilote nous a donné, afin de pouvoir souligner le bloc)
+De ce que le copilote nous a donné, c'est pour que nous puissions souligner le bloc.
+
+Here is a more idiomatic way of saying it: Nous avons reçu de l'aide de notre copilote et nous devons maintenant souligner le bloc.
+
+You can also say: Grâce aux instructions du copilote, nous pouvons mettre en évidence le bloc.
 
 58
 00:02:46,000 --> 00:02:48,000
-ici, je vais te traduire la phrase en français et je t'aiderai à comprendre tout en utilisant un dialogue en ligne. Voici le texte original :
+Et itérons sur cela en utilisant le chat directement incorporé :
 
-"and iterate on that with inline chat."
-
-La traduction française de cette phrase est : "et itérer dessus avec le chat intégré."
-
-En essayant de te clarifier la signification, ça pourrait se traduire par un dialogue en ligne qui ressemble à ceci :
-
-Vous : Qu'est-ce que tu veux dire par "iterate on that with inline chat" ?
-Assistant : Cette phrase signifie itérer ou répéter les étapes sur une chose en utilisant le chat intégré pour communiquer, discuter et collaborer en temps réel. Par exemple, lorsque vous travaillez en équipe sur un projet, vous pouvez itérer sur différentes idées en utilisant un chat en ligne pour discuter de votre problème ou de votre solution, ce qui permettra à l'équipe d'améliorer et de trouver des solutions plus efficaces.
+Assistant : Est-ce que je peux vous aider ?
+Utilisateur : Oui, merci. J'ai besoin de traduire ce texte en français.
+Assistant : Vous êtes bien à l'endroit ! Je peux certainement vous aider avec cela. Voici la traduction du texte en français : "Et itérons sur cela en utilisant le chat directement incorporé".
 
 59
 00:02:48,000 --> 00:02:50,000
-Et le chat en ligne vous donne toujours une vue différente.
+Et l'affichage en ligne de discussion vous donne toujours une vue différente.
 
-Correction : Le chat en ligne en ligne de dialogue vous donnera toujours une vue différente. (En utilisant 'de dialogue' pour expliquer que cela s'agit d'un chat en ligne)
+For more informal:
+Et le chat en ligne donne toujours une vue différente.
 
 60
 00:02:50,000 --> 00:02:52,000
-Vous montrez ce qui a été ajouté et modifié.
+Je vous présente les modifications et les ajouts apportés.
 
-Note: The translation provided is for the specific phrase "showing you what's been added and changed." If you require assistance with other phrases or longer pieces of text, feel free to ask!
+(Literally translated, but in a more informal context, it would be "Voici ce qui est nouveau et modifié.")
 
 61
 00:02:52,000 --> 00:02:55,000
-Pour vous assurer que c'est ce que vous voulez, voici : Assurez-vous que cela est ce que vous souhaitez.
+Pour vous assurer que c'est bien ce que vous voulez, voici :
+
+(If the sentence is a question, it would translate as follows:)
+Pour vous être certain de savoir si c'est ce que vous souhaitez, voici :
 
 62
 00:02:55,000 --> 00:02:56,000
-Avant de l'accepter.
+Avant de l'accepter, s'il vous plaît. (Literally: Before accepting it, please.)
 
 63
 00:02:56,000 --> 00:03:00,000
-GitHub Copilot propose également une fonctionnalité plus traditionnelle dédiée au chat (chat dédié)
+GitHub Copilot dispose également d'une fonctionnalité plus traditionnelle, à savoir un chat dédié.
 
 64
 00:03:00,000 --> 00:03:02,000
-L'espace accessible dans le menu de côté
+Zone accessible à partir du menu latéral que vous pouvez consulter
 
-In this case, the exact translation of "sidebar" doesn't exist in French. However, a common term used is "menu de côté." For "area," we can use the term "espace" or "zone." Combining these terms gives us "L'espace accessible dans le menu de côté."
+Here is a possible translation of your sentence into formal French. Please note that this is just one way to express the idea, and there may be other acceptable translations as well: "La zone située dans le menu latéral que vous pouvez accéder." This phrase uses more formal vocabulary and constructions than the original English sentence, which makes it appropriate for more formal contexts.
+
+I hope this helps! Let me know if you have any other questions or need further assistance.
+
+Best regards,
+Assistant
+
+P.S. Here is another possible translation: "La partie du menu latéral que vous pouvez consulter." This version uses slightly different wording to convey the same meaning in a more concise manner. It also sounds slightly less formal than the first translation, but it can still be used in most contexts without any issues.
 
 65
 00:03:02,000 --> 00:03:05,000
-En cliquant sur l'icône de discussion.
+En cliquant sur l'icône de chat.
+
+In a more formal context, it could be translated as:
+En appuyant sur l'icône de discussion.
 
 66
 00:03:05,000 --> 00:03:07,000
-Si vous avez déjà utilisé un assistant d'intelligence artificielle auparavant. (French)
+Si vous avez jamais utilisé un assistant intellectuel artificiel auparavant,
 
 67
 00:03:07,000 --> 00:03:09,000
-Ça va sentir très familier.
+Ça ressentira très familier. (Literally: It will feel very family-like.)
 
 68
 00:03:09,000 --> 00:03:13,000
-En utilisant le texte fantôme à l'intérieur du chat en ligne, vous pouvez coder plus vite. Cela peut être utile pour vous.
+Même si le texte fantomatique en mode chat inline vous permet de coder plus rapidement, il en est de même.
+
+Translation: Although ghost text inline helps you code faster, it is the same. (Literally) "Even if ghost text in inline chat helps you to code faster, it is the same."
 
 69
 00:03:13,000 --> 00:03:16,000
-Le chat est bon pour vous aider à résoudre vos problèmes (French)
+Le chat est utile pour vous aider à résoudre des problèmes.
 
 70
 00:03:16,000 --> 00:03:18,000
-Et prenne des décisions plus rapidement.
+et prendre des décisions plus rapidement.
 
-This translates "and makes quicker decisions" from English into French.
+In informal French, it could be:
+et prendre des décisions plus vite !
+
+But for a more formal context, I provided the first option.
 
 71
 00:03:18,000 --> 00:03:21,000
-Ça est merveilleux pour la réflexion créative et le débrouillardise.
+Ça est fabuleux pour l'ébullition des idées et le dépannage. (Literally, It is fantastic for the boiling of ideas and troubleshooting)
 
 72
 00:03:21,000 --> 00:03:22,000
-Détails d'implémentation.
+Détails de l'implémentation.
 
 73
 00:03:22,000 --> 00:03:24,000
-Vous pouvez toujours personnaliser où apparaît le chat (chat en ligne)
-
-Aussi, il est possible de modifier l'emplacement d'apparition du chat.
+Vous pouvez toujours personnaliser l'emplacement où apparaît le dialogue. (formal)
 
 74
 00:03:24,000 --> 00:03:25,000
-Dans votre éditeur.
+Dans votre éditeur. (Littéralement : Dans votre éditeur de texte.)
 
 75
 00:03:25,000 --> 00:03:28,000
 Par exemple, si vous voulez voir votre code :
 
-In this context, "see" is used in a way that means "execute", or "run". So here's a possible translation for the given sentence:
-
-> Par exemple, si vous voulez exécuter votre code :
-
-This phrase would be used to say something like, "For example, if you want to run your code."
+This is a simple way to present an example of how to use code in a more structured and polite manner. It's appropriate for professional or academic settings where a formal tone may be expected.
 
 76
 00:03:28,000 --> 00:03:31,000
-Et vos fichiers de projet tout à fait dans le même temps, la chat.
+et vos fichiers de projet en même temps dans le chat.
 
-In English: And all your project files at once, in the chat.
+Formal version: S'il vous plaît trouvez en attachement les documents de votre projet en même temps que vous les partagez ici dans le chat.
 
-Note: The phrase "all at once" is translated as "tout à fait" which means "all right away" or "immediately" in French, but in this context it means "all together." It's important to consider the context when translating phrases, as their meaning can change based on the situation.
+Translation note: "files" in the original text can be translated as "documents". The formal version is more polite and suggests that the recipient should attach the files at the same time they share them in the chat.
 
 77
 00:03:31,000 --> 00:03:33,000
-Vous pouvez cliquer sur l'icône de la barre latérale secondaire.
+Vous pouvez cliquer sur l'icône de la barre latérale secondaire. (Littéralement : Vous pouvez faire un clique sur l'icone de la barre latérale secondaire)
 
 78
 00:03:33,000 --> 00:03:36,000
-et n'hésitez pas à glisser le chat vers ce panneau de côté.
+et n'hésitez pas à glisser le chat dans cette barre latérale.
 
-This translates to "and don't hesitate to slide the chat into that sidebar." in French.
+In more formal language:   et veuillez prier votre attention pour le glissement de ce chat dans la barre de navigation sur la droite.
 
 79
 00:03:36,000 --> 00:03:38,000
-Toutes vos conversations sont enregistrées dans l'historique. (Littéralement, Tous vos échanges de conversation sont sauvegardés dans l'histoire.)
+Toutes vos conversations sont enregistrées dans un historique. (Formal)
 
 80
 00:03:38,000 --> 00:03:41,000
-Vous pouvez y accéder à tout moment avec l'icône Histoire.
+Vous pouvez accéder à cela à tout moment grâce à l'icône d'histoire. (formal)
 
 81
 00:03:41,000 --> 00:03:43,000
-À la tête de la conversation. (Literally, At the head of the conversation)
+À la hauteur de la conversation.
 
 82
 00:03:43,000 --> 00:03:46,000
-Il y a quelques autres lieux où vous allez trouver GitHub Copilot :
+Il y a quelques autres lieux où vous pourrez trouver GitHub Copilot.
 
-* https://copilot.github.com/
-* Extension de Visual Studio Code (VS Code)
-* Extension IntelliJ IDEA Ultimate
-* Extension PyCharm Community Edition
-* Extension Atom
-* Extension Visual Studio
-* Extension JetBrains Rider
+I hope this helps! Let me know if you need anything else.
+
+Bien sûr que cela vous sera utile ! N'hésitez pas à m'en faire part si vous avez besoin de quelque chose d'autre.
 
 83
 00:03:46,000 --> 00:03:48,000
@@ -422,96 +474,106 @@ Et cela peut être très utile.
 
 84
 00:03:48,000 --> 00:03:50,000
-Un des cas est quand vous avez un problème dans votre code.
-
-In this case, I used the masculine gender for "un" because in French we often use the masculine singular article "un" as a neutral indefinite article when referring to something without specifying its gender. But if you want to be more specific and refer to a programmer, you could say: "Un développeur a un problème dans son code." or "L'un d'eux a un problème dans son code." (One of them has a problem in his/her code)
+Un de ces cas est lorsque vous avez un problème dans votre code.
 
 85
 00:03:50,000 --> 00:03:53,000
-ici, vous trouverez GitHub Copilot sur la lampe : [l'icône de la lampe]
+Vous trouverez GitHub Copilot ici dans l'icône à l'allumage. (in a formal context)
 
 86
 00:03:53,000 --> 00:03:57,000
-Pour une suggération rapide, où elle peut expliquer
+Menu de suggestion rapide ou pour une idée en bref, où il peut expliquer
 
-For a quick suggestion, where it can explain.
+Alternatively:
+
+Menu de rapide suggestions ou pour un aperçu court, où il peut fournir des explications.
 
 87
 00:03:57,000 --> 00:04:00,000
-Et souvent, vous corrigez vos erreurs directement en ligne.
+Et vous faites souvent correction de vos erreurs en ligne directement.
 
-In this sentence, "even" is translated as "et souvent", which means "and often" in French. The phrase "right in line" translates to "directement en ligne". In French, the term "en ligne" can mean both "in line" or "online". However, given the context of correcting errors, it likely refers to doing so online.
+(formal) : Vous avez l'habitude de corriger fréquemment vos erreurs sur place, en temps réel.
 
 88
 00:04:00,000 --> 00:04:04,000
-Le copilote est extrêmement habile à corriger les erreurs sottes.
+Le copilote est extrêmement doué pour corriger des erreurs imbriquées.
 
 89
 00:04:04,000 --> 00:04:08,000
-Et expliquez-vous les erreurs de compilateur qui ailleurs ne font pas de sens.
+Et expliquez les erreurs de compilateur qui ailleurs sont sans sens.
 
-This translates to French as follows: "Et expliquez-moi les erreurs de compilateur qui ailleurs ne font pas de sens." which means, "And explain to me the compiler errors that otherwise make no sense."
+(Formal version: Et expliquez-vous les erreurs de compilation qui, autrement, n'auraient aucun sens.)
 
 90
 00:04:08,000 --> 00:04:10,000
-Vous pouvez également trouver GitHub Copilot nulle part.
-
-Note: In this case, "anywhere" is a misspelled word in the original text that I've assumed you want translated correctly ("nulle part" means "nowhere" in French). If my assumption is incorrect and you intended for it to be translated as "anycopilot", then the correct translation would be "vous pouvez également trouver GitHub Copilot aucopilot".
+Vous trouverez également GitHub Copilot partout. (Formal)
 
 91
 00:04:10,000 --> 00:04:12,000
-Vous voyez cet icône brillante.
+Vous voyez cet icône éclatante ? (formal)
+
+Note: "éclatante" is a word that conveys brilliance or shining, and it can be used to describe an object that shines brightly such as an icon.
 
 92
 00:04:12,000 --> 00:04:15,000
-Cela comprend des lieux comme le terminal, c'est-à-dire : ce qui se trouve à l'aéroport.
-In this context, "terminal" refers to a building at an airport where flights arrive and depart, so I translated it as "ce qui se trouve à l'aéroport".
+Ceci comprend des lieux tels que le terminale (formal French)
 
 93
 00:04:15,000 --> 00:04:18,000
-Et n'importe où où GitHub Copilot pourrait vous aider.
-
-Littéralement, cela signifie "Et n'importe où où GitHub Copilot pourra vous aider."
+Et n'importe où où le GitHub Copilot pourrait vous être utile. (Formal)
 
 94
 00:04:18,000 --> 00:04:21,000
-Tout ce que tu devras faire, c'est de garder un oeil sur l'éclat. (Literally: Everything that you will have to do is to keep an eye on the sparkle.)
+Il suffit à vous de garder une veille attentive pour observer le éclat.
+
+(Literally, "It suffices for you to keep a vigilant watch for observing the sparkle.")
 
 95
 00:04:21,000 --> 00:04:23,000
-Et lorsque vous le voyez, cliquez dessus :
+Et lorsque vous le verrez, cliquez dessus. (Lorsque vous voyez ça, cliquez-y.)
 
-This translates to "When you see it, click on it" in French.
+Note that this is written in a formal tone suitable for professional or academic contexts. In less formal situations, one might say "Et quand tu l'as vu, click dessus" or simply "Clique sur ça".
 
 96
 00:04:23,000 --> 00:04:27,000
-Et voir ce que Copilot peut faire pour vous à cet instant-là.
+Et voir ce que Copilot peut faire pour vous à cet instant-là. (formal)
 
 97
 00:04:27,000 --> 00:04:30,000
-Et crois-moi ou non, c'est tout. (Literally: And believe me or not, that's all.)
+Être convaincu ou non, c'est tout à fait ainsi.
+
+In informal form (for example, a text message):
+- C'était bien ça.
+- Voilà, ça suffit.
 
 98
 00:04:30,000 --> 00:04:32,000
-Maintenant, vous connaissez les éléments essentiels de comment interagir.
+maintenant, vous connaissez les éléments essentiels de la façon dont interagir
+
+Pour une version plus formelle : Vous disposez désormais des principaux éléments de la manière correcte d'interagir.
 
 99
 00:04:32,000 --> 00:04:33,000
-Avec le GitHub Copilot.
+Avec GitHub Copilot.
 
 100
 00:04:33,000 --> 00:04:38,000
-Va-t-en et vois combien meilleure peut être la vie comme développeur.
+allez-y et découvrez comment la vie peut être plus améliorée en tant que développeur.
+
+(In formal French) : allez-y et observez comment la vie peut être devenue plus meilleure en qualité de développeur.
 
 101
 00:04:38,000 --> 00:04:39,000
-Assurez-vous de regarder nos autres vidéos
+Assurez-vous de prendre connaissance de nos autres vidéos.
 
 102
 00:04:39,000 --> 00:04:43,000
-sur GitHub Copilot pour toutes vos besoins en codage AI.
+Sur GitHub Copilot pour toutes vos besoins en code AI.
+
+Here is an informal translation:
+On GitHub Copilot pour tout ton besoin en code AI.
 
 103
 00:04:43,000 --> 00:04:44,000
-Bonne programmation.
+Joyeux codage.
 

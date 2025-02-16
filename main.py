@@ -9,6 +9,41 @@ import ollama
 # Load the Whisper model (Change "small" to "medium" or "large" for better accuracy)
 model = whisper.load_model("small")
 
+def webm_to_srt(webm_path, srt_path="subtitles1.srt"):
+    """
+    Converts a WEBM video file to subtitles using Whisper and saves as an SRT file.
+    
+    Args:
+        webm_path (str): Path to the input WEBM file.
+        srt_path (str): Output path for the SRT file.
+    
+    Returns:
+        List of subtitle segments.
+    """
+    print("Extracting audio from video...");
+    audio = AudioSegment.from_file(webm_path, format="webm")
+    audio_path = "audio.wav"
+    audio.export(audio_path, format="wav")
+    
+    print("Transcribing audio...")
+    result = model.transcribe(audio_path)
+    segments = result["segments"]
+
+    # Save subtitles to an SRT file
+    print(f"Saving subtitles to {srt_path}...")
+    with io.open(srt_path, "w", encoding="utf-8") as f:
+        for i, segment in enumerate(segments):
+            start = format_timestamp(segment["start"])
+            end = format_timestamp(segment["end"])
+            text = segment["text"].strip()
+
+            f.write(f"{i+1}\n{start} --> {end}\n{text}\n\n")
+
+    print(f"Subtitles saved successfully: {srt_path}")
+    return segments
+    
+
+
 def convert_webm_to_wav(webm_path, wav_path="audio.wav"):
     """
     Converts a WEBM audio file to WAV format.
@@ -47,80 +82,85 @@ def wav_to_srt(wav_path, srt_path="subtitles.srt"):
         List of subtitle segments.
     """
     print("Transcribing audio...")
-    
-    # Transcribe audio with progress bar
-    with tqdm.tqdm(desc="Processing", unit="frames") as pbar:
-        result = model.transcribe(wav_path)
-        pbar.update()
 
-    # Extract segments
+    # Transcribe audio with progress bar
+    result = model.transcribe(wav_path)
     segments = result["segments"]
 
     # Save subtitles to an SRT file
     print(f"Saving subtitles to {srt_path}...")
     with io.open(srt_path, "w", encoding="utf-8") as f:
-        for i, segment in enumerate(segments):
-            start = format_timestamp(segment["start"])
-            end = format_timestamp(segment["end"])
-            text = segment["text"].strip()
+        with tqdm.tqdm(total=len(segments), desc="Processing", unit="segments") as pbar:
+            for i, segment in enumerate(segments):
+                start = format_timestamp(segment["start"])
+                end = format_timestamp(segment["end"])
+                text = segment["text"].strip()
+                sentences = re.split(r"(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s", text)
 
-            f.write(f"{i+1}\n{start} --> {end}\n{text}\n\n")
+                for j, sentence in enumerate(sentences):
+                    if sentence.strip():
+                        f.write(f"{i+1}\n{start} --> {end}\n{sentence.strip()}\n\n")
+                        start = end
+                        end = format_timestamp(segment["start"] + (j + 1) * 0.5)
+                
+                pbar.update(1)
 
     print(f"Subtitles saved successfully: {srt_path}")
     return segments
 
-
- 
-
 # Call the functions
+
 webm_file = "Github Copilot Tips.webm"
+subtitles = webm_to_srt(webm_file)
 wav_file = convert_webm_to_wav(webm_file)
 subtitles = wav_to_srt(wav_file)
 
-def improve_text_ollama(text):
-    """
-    Uses Ollama to enhance subtitle clarity and accuracy.
-    """
-    prompt = f"Improve the clarity and grammar of the following subtitle text while keeping its meaning, don't change the entire text:\n{text}"
-    response = ollama.chat(model="mistral", messages=[{"role": "user", "content": prompt}])
-    return response["message"]["content"].strip()
 
-def improve_srt(srt_path, output_srt_path="subtitles_improved.srt"):
+"""
+Function to improve grammer of srt file
+"""
+def improve_grammar(srt_path, improved_path="subtitles_improved.srt"):
     """
-    Improves subtitle clarity using Ollama while keeping timestamps and numbering intact.
+    Improves the grammar of subtitles using Grammarly and saves as an SRT file.
+    
+    Args:
+        srt_path (str): Path to the input SRT file.
+        improved_path (str): Output path for the improved SRT file.
+    
+    Returns:
+        None
     """
-    print("Improving subtitles...")
+    print("Improving grammar of subtitles...")
 
     with io.open(srt_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
     improved_lines = []
     subtitle_block = []
-
+    
     for line in lines:
         if re.match(r"^\d+$", line.strip()) or "-->" in line:
-            # Keep subtitle number and timestamps unchanged
+            # If it's a subtitle number or timestamp, keep it unchanged
             improved_lines.append(line)
         elif line.strip():
             # Collect subtitle text
             subtitle_block.append(line.strip())
         else:
             if subtitle_block:
-                # Join lines, improve text, and add improved subtitle
-                english_text = " ".join(subtitle_block)
-                improved_text = improve_text_ollama(english_text)
+                # Join lines and improve grammar when a blank line is encountered
+                text = " ".join(subtitle_block)
+                improved_text = text  # Placeholder for grammar correction logic
                 improved_lines.append(improved_text + "\n\n")
                 subtitle_block = []
 
-    # Save the improved subtitles
-    with io.open(output_srt_path, "w", encoding="utf-8") as f:
+    # Save improved subtitles
+    with io.open(improved_path, "w", encoding="utf-8") as f:
         f.writelines(improved_lines)
 
-    print(f"Improved subtitles saved successfully: {output_srt_path}")
+    print(f"Improved subtitles saved successfully: {improved_path}")
 
 # Example usage
-srt_file = "subtitles.srt"  # Change this to your subtitle file
-improve_srt(srt_file, "subtitles_improved.srt")
+improve_grammar("subtitles.srt", "subtitles_improved.srt")
 
 
 def translate_text_ollama(text, target_lang="French"):
@@ -134,7 +174,7 @@ def translate_text_ollama(text, target_lang="French"):
     Returns:
         str: Translated text.
     """
-    prompt = f"Translate the following English text to {target_lang}:\n{text}"
+    prompt = f"Translate the following English text to {target_lang} in formal form:\n{text}"
     response = ollama.chat(model="mistral", messages=[{"role": "user", "content": prompt}])
     return response["message"]["content"].strip()
 
@@ -179,4 +219,4 @@ def srt_to_french(srt_path, french_path="subtitles_fr.srt"):
     print(f"French subtitles saved successfully: {french_path}")
 
 # Example usage
-srt_to_french("subtitles.srt", "subtitles_fr.srt")
+srt_to_french("subtitles_improved.srt", "subtitles_fr.srt")
